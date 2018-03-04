@@ -1,0 +1,6 @@
+c:\users\loozer\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+c:\users\loozer\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+c:\users\loozer\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+c:\users\loozer\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+c:\users\loozer\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+c:\users\loozer\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
